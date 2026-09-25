@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-118 -112 305 286" width="305" height="286"><title>Enclosure, exploded view</title><style>
+.o{fill:#fff;stroke:#111;stroke-width:2;stroke-linejoin:round}
+.k{fill:#111;stroke:#111;stroke-width:2;stroke-linejoin:round}
+.t{fill:none;stroke:#111;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round}
+.d{fill:none;stroke:#111;stroke-width:1.2;stroke-dasharray:4 5;stroke-linecap:round;stroke-linejoin:round}
+.m{fill:none;stroke:#111;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.f{fill:#111;stroke:none}
+.lbl{fill:#111;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700}
+</style>
+<polygon class="o" points="173.2,100.0 69.3,160.0 69.3,124.0 173.2,64.0"/>
+<polygon class="o" points="-103.9,60.0 69.3,160.0 69.3,124.0 -103.9,24.0"/>
+<polygon class="o" points="0.0,-36.0 173.2,64.0 69.3,124.0 -103.9,24.0"/>
+<polygon class="o" points="0.0,-26.0 155.9,64.0 69.3,114.0 -86.6,24.0"/>
+<!-- board outline -->
+<polygon class="k" points="154.2,99.0 138.6,108.0 138.6,96.0 154.2,87.0"/>
+<polygon class="k" points="124.7,116.0 109.1,125.0 109.1,113.0 124.7,104.0"/>
+<path class="o" d="M-6.1,-20.0 A6.12,3.54 0 0 0 6.1,-20.0 L6.1,-32.0 L-6.1,-32.0 Z"/>
+<ellipse class="o" cx="0.0" cy="-32.0" rx="6.12" ry="3.54"/>
+<path class="o" d="M-82.3,24.0 A6.12,3.54 0 0 0 -70.1,24.0 L-70.1,12.0 L-82.3,12.0 Z"/>
+<ellipse class="o" cx="-76.2" cy="12.0" rx="6.12" ry="3.54"/>
+<path class="o" d="M139.4,64.0 A6.12,3.54 0 0 0 151.6,64.0 L151.6,52.0 L139.4,52.0 Z"/>
+<ellipse class="o" cx="145.5" cy="52.0" rx="6.12" ry="3.54"/>
+<path class="o" d="M63.2,108.0 A6.12,3.54 0 0 0 75.4,108.0 L75.4,96.0 L63.2,96.0 Z"/>
+<ellipse class="o" cx="69.3" cy="96.0" rx="6.12" ry="3.54"/>
+<line class="d" x1="0.0" y1="-32.0" x2="0.0" y2="-76.0"/>
+<line class="d" x1="145.5" y1="52.0" x2="145.5" y2="8.0"/>
+<line class="d" x1="-76.2" y1="12.0" x2="-76.2" y2="-32.0"/>
+<line class="d" x1="69.3" y1="96.0" x2="69.3" y2="52.0"/>
+<polygon class="o" points="173.2,8.0 69.3,68.0 69.3,62.0 173.2,2.0"/>
+<polygon class="o" points="-103.9,-32.0 69.3,68.0 69.3,62.0 -103.9,-38.0"/>
+<polygon class="o" points="0.0,-98.0 173.2,2.0 69.3,62.0 -103.9,-38.0"/>
+<ellipse class="k" cx="1.7" cy="-63.0" rx="13.47" ry="7.78"/>
+<ellipse class="k" cx="38.1" cy="-42.0" rx="13.47" ry="7.78"/>
+<ellipse class="k" cx="74.5" cy="-21.0" rx="13.47" ry="7.78"/>
+<ellipse class="k" cx="110.9" cy="0.0" rx="13.47" ry="7.78"/>
+<polygon class="k" points="-31.2,-50.0 90.1,20.0 83.1,24.0 -38.1,-46.0"/>
+<ellipse class="o" cx="-60.6" cy="-35.0" rx="5.51" ry="3.18"/>
+<ellipse class="o" cx="-43.3" cy="-25.0" rx="5.51" ry="3.18"/>
+<ellipse class="o" cx="-26.0" cy="-15.0" rx="5.51" ry="3.18"/>
+<ellipse class="o" cx="-8.7" cy="-5.0" rx="5.51" ry="3.18"/>
+<ellipse class="o" cx="8.7" cy="5.0" rx="5.51" ry="3.18"/>
+<ellipse class="o" cx="26.0" cy="15.0" rx="5.51" ry="3.18"/>
+<ellipse class="o" cx="43.3" cy="25.0" rx="5.51" ry="3.18"/>
+<ellipse class="o" cx="60.6" cy="35.0" rx="5.51" ry="3.18"/>
+<ellipse class="o" cx="0.0" cy="-90.0" rx="3.18" ry="1.84"/>
+<ellipse class="o" cx="159.3" cy="2.0" rx="3.18" ry="1.84"/>
+<ellipse class="o" cx="-90.1" cy="-38.0" rx="3.18" ry="1.84"/>
+<ellipse class="o" cx="69.3" cy="54.0" rx="3.18" ry="1.84"/>
+</svg>
